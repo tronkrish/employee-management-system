@@ -37,3 +37,10 @@ This project helps organizations manage employee details efficiently with featur
 
 ## 📂 Project Structure
 
+EMS-Fullstack-Project/
+│
+├── ems-frontend/ # React Frontend
+│
+├── EMS-Backend/ # Spring Boot Backend
+│
+└── README.md
